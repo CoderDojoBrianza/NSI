@@ -1,0 +1,2 @@
+# NSI
+Ninja Satisfaction Index
